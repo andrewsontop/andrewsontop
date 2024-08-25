@@ -12,7 +12,7 @@
 
 <p align="left">
 ✨ Hacking/Modding since 2019<br>
-📚 What do I do in my free time? I usually watch videos, netflix or play videogames!<br>
+📚 In my free time I usually watch videos, netflix or play videogames!<br>
 🔭 Actually working on my own website to upload things<br>
 😄 Pronouns: he/his<br>
 📫 Contacts (More below): Discord: 31f4</p>
