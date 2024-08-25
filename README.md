@@ -2,11 +2,11 @@
 
 ###
 
-<p align="left">My name is Andrew, I'm a coder, from Spain</p>
+<p align="left">My name is Andrew, I'm a coder from Spain</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">About Me</h2>
 
 ###
 
