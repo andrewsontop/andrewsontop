@@ -15,7 +15,7 @@
 📚 In my free time I usually watch videos, netflix or play videogames!<br>
 🔭 Actually working on my own website to upload things<br>
 😄 Pronouns: he/his<br>
-📫 Contacts (More below): Discord: 31f4</p>
+📫 Contacts (More below): Discord: 6linux</p>
 
 <p align="left">
 <a href="https://twitter.com/andrewsontop" target="blank"><img align="center" src="https://raw.githubusercontent.com/andrewsontop/andrewsontop/main/logos/twitter.jpg" alt="andrewsontop" height="40"/></a>
